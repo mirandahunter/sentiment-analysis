@@ -1,5 +1,5 @@
 RottenTomatoes/rotten_tomatoes_critic_reviews.csv
-
+ert.pth/*
 *.png
 # Byte-compiled / optimized / DLL files
 __pycache__/
